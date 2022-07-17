@@ -2,8 +2,6 @@ name: CI 2.1
 on:
   pull_request:
     branches: [master]
-  push:
-    branches: [csaba79-coder-CI]
 jobs:
   build:
     runs-on: ubuntu-latest
