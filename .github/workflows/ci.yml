@@ -28,3 +28,7 @@ jobs:
         uses: gradle/gradle-build-action@v2
         with:
           arguments: build
+      unitTests:
+        stage: test
+        script:
+          - ./gradlew test
