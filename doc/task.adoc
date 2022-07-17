@@ -4,3 +4,14 @@ Mail sender (email via SMTP):
 
 https://www.geeksforgeeks.org/spring-boot-sending-email-via-smtp/
 
+'''
+
+SpringBootTest recommended annotations:
+
+https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/html/boot-features-testing.html
+
+'''
+
+Springboot and ci to run tests:
+
+https://stackoverflow.com/questions/52166670/springboot-and-gitlab-ci-to-run-tests
