@@ -1,0 +1,6 @@
+= Good to know
+
+Mail sender (email via SMTP):
+
+https://www.geeksforgeeks.org/spring-boot-sending-email-via-smtp/
+
