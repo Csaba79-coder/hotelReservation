@@ -15,3 +15,9 @@ https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/html/boot-featur
 Springboot and ci to run tests:
 
 https://stackoverflow.com/questions/52166670/springboot-and-gitlab-ci-to-run-tests
+
+'''
+
+Circle CI:
+
+https://circleci.com/integrations/github/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--emea-en-githubCI-maxConv-auth-nb&utm_term=g_p-github%20ci_c__rsa1_20220516&utm_content=sem-google-dg--emea-en-githubci-maxconv-auth-nb_keyword-text_rsa-githubCI_mixed-&gclid=CjwKCAjw5s6WBhA4EiwACGncZQoES_9Kl0blCaSySSJAR6HR-FQQWA7hfUb0CVps1NSJKC7XodqbSRoC9k0QAvD_BwE
