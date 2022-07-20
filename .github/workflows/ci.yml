@@ -2,6 +2,10 @@ name: CI 2.1
 on:
   pull_request:
     branches: [master]
+env:
+  EMAIL_PASSWORD: ${{secrets.EMAIL_PASSWORD}}
+  EMAIL_PORT: ${{secrets.EMAIL_PORT}}
+  EMAIL_USER: ${{secrets.EMAIL_USER}}
 jobs:
   build:
     runs-on: ubuntu-latest
