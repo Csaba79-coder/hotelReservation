@@ -1,4 +1,6 @@
 # hotelReservation
-Teamwok (Ibolya &amp; Csaba) - own created software
+Teamwork (Ibolya &amp; Csaba) - own created software
 
-We are creationg a hotel reservation program, that can handle more hotels (chain) to reserv rooms.
+![img.png](src/main/resources/static/img/img.png)
+
+We are creating a hotel reservation program, that can handle more hotels (chain) to reserve rooms.
