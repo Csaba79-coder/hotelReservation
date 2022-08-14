@@ -1,5 +1,5 @@
 # hotelReservation
-Teamwork (Ibolya &amp; Csaba) - own created software
+Teamwork (Ibolya &amp; Sodiq &amp; Csaba) - own created software
 
 ![img.png](src/main/resources/static/img/ascii.png)
 
